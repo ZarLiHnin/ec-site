@@ -28,7 +28,6 @@
     "@babel/preset-typescript": "^7.27.1",
     "@eslint/eslintrc": "^3",
     "@storybook/addon-a11y": "^9.0.11",
-    "@storybook/addon-essentials": "9.0.11",
     "@storybook/addon-docs": "^9.0.11",
     "@storybook/nextjs-vite": "^9.0.11",
     "@storybook/react": "^9.0.11",
